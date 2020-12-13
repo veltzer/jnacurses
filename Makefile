@@ -9,4 +9,4 @@ install: libjnacurses.so
 	sudo ldconfig
 .PHONY: clean
 clean:
-	@pymakehelper only_print_on_error rm libjnacurses.so
+	@rm libjnacurses.so
