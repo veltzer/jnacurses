@@ -1,3 +1,5 @@
 *.so
 /.pydmt/
 *.stamp
+__pycache__
+*.py[oc]
