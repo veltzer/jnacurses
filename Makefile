@@ -10,3 +10,7 @@ install: libjnacurses.so
 .PHONY: clean
 clean:
 	@rm libjnacurses.so
+.PHONY: clean_hard
+clean_hard:
+	$(info doing [$@])
+	@git clean -qffxd
