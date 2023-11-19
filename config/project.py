@@ -1,3 +1,10 @@
 name = "jnacurses"
 description_short = "curses implementation for Java"
-keywords = []
+keywords = [
+    "curses",
+    "ncurses",
+    "java",
+    "jvm",
+    "jdk",
+    "terminal",
+]
