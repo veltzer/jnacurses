@@ -1,4 +1,4 @@
-# jnacurses
+# java-jnacurses
 
 A curses implementation for Java.
 
